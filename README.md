@@ -1,18 +1,17 @@
-# Hey 👋, I'm Tharun
+# Hey 👋, I'm Sriman
 
 ### About me
 
-- I, as an undergraduate student studying Information Technology at PSGCT, am determined to enhance my understanding and abilities in this field.
-- I'm passionate about web development and constantly seeking new opportunities to learn.
+- I, as an undergraduate student studying Information Technology at SKCET, .
 
 ### Connect with me
 
-<a href="mailto:im.tharunprasath@gmail.com">
+<a href="mailto:srimancodes@gmail.com">
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>
-<a href="https://www.linkedin.com/in/imtharun/">
+<a href="https://www.linkedin.com/in/sriman-r-8641a21bb/">
   <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
 </a>
-<a href="https://codepen.io/imtharun">
-  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" />
+<a href="https://sriman.netlify.app/">
+  <img align="left" width="26px" src="https://www.flaticon.com/free-icon/portfolio_726056" />
 </a>

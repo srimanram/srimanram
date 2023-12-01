@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hey 👋, I'm Tharun
 
-<!--
-**srimanram/srimanram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+- I, as an undergraduate student studying Information Technology at PSGCT, am determined to enhance my understanding and abilities in this field.
+- I'm passionate about web development and constantly seeking new opportunities to learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me
+
+<a href="mailto:im.tharunprasath@gmail.com">
+  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+</a>
+<a href="https://www.linkedin.com/in/imtharun/">
+  <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
+</a>
+<a href="https://codepen.io/imtharun">
+  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" />
+</a>

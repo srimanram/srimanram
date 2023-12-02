@@ -13,5 +13,5 @@
   <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
 </a>
 <a href="https://sriman.netlify.app/">
-  <img align="left" width="26px" src="https://www.flaticon.com/free-icon/portfolio_726056" />
+  <img align="left" width="26px" src="[https://www.flaticon.com/free-icon/portfolio_726056](https://icons8.com/icon/61977/portfolio)https://icons8.com/icon/61977/portfolio" />
 </a>

@@ -43,8 +43,7 @@ Tools & Languages:
 
 
 
-
-## 📚 My Blog posts
-<a href="https://medium.com/@Srimanram"><img src="https://icons8.com/icon/BzFWSIqh6bCr/medium" alt="medium" width="40" height="40"/>
+<h2>My Blog posts</h2>
+<a href="https://medium.com/@Srimanram">Medium</a>
 <!-- HASHNODE:START -->
 <!-- HASHNODE:END -->

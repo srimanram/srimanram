@@ -45,6 +45,6 @@ Tools & Languages:
 
 
 ## 📚 My Blog posts
-<a href="https://medium.com/@Srimanram"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fblogging-guide%2Fmediums-new-logo-2020-unfinished-ellipses-logomark-e24c059871e7&psig=AOvVaw2GsEwiQWB84KS5hFjnCR8W&ust=1715959138912000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOiDloq8koYDFQAAAAAdAAAAABAE" alt="medium" width="40" height="40"/>
+<a href="https://medium.com/@Srimanram"><img src="https://icons8.com/icon/BzFWSIqh6bCr/medium" alt="medium" width="40" height="40"/>
 <!-- HASHNODE:START -->
 <!-- HASHNODE:END -->

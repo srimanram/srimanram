@@ -45,5 +45,6 @@ Tools & Languages:
 
 <h2>My Blog posts</h2>
 <a href="https://medium.com/@Srimanram">Medium</a>
+<a href="https://sriman.netlify.app/">Portfolio</a>
 <!-- HASHNODE:START -->
 <!-- HASHNODE:END -->

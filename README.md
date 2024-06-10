@@ -8,7 +8,7 @@ I am [SRIMAN](https://sriman.netlify.app/)!</h2>
 -  I’m currently pursuing my B. Tech focused on Information Technology(IT).
 -  I’m interested in web development.
 -  I’m a passionate programmer who loves learning new things daily.
--  I'm currently learning DevOps.
+-  I'm currently learning DevOps .
 -  reach me: **srimancodes@gmail.com**
 <br/>
 <hr/>
